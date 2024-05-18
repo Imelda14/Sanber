@@ -1,0 +1,22 @@
+{
+  "name": "sanber",
+  "version": "1.0.0",
+  "description": "Test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imelda14/Sanber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Imelda14/Sanber/issues"
+  },
+  "homepage": "https://github.com/Imelda14/Sanber#readme",
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  }
+}
